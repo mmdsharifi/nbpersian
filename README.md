@@ -15,6 +15,8 @@ Find out what other people are saying about the book by clicking on this link to
 ## Contribute
 First of all, thank you for taking the time to contribute to this project. you can use [issues](https://github.com/imasood/nbpersian/issues) page or send [mail](mailto:uid.mgh@gmail.com?Subject=Contribute%20The%20Node%20Beginner%20Book) to contribute translated content, suggestions and bugfixes.
 
+- ES6 version by [Mohammad Sharifi (@mmdsharifi)](https://github.com/mmdsharifi/nbpersian-code)
+
 ## License
 ![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png "CC BY-NC-ND 4.0")   
 This **translation of book** is licensed under a **Creative Commons 4.0(CC BY-NC-ND 4.0) International** License and you can publish to **free**.   
